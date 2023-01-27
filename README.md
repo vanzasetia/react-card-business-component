@@ -29,7 +29,7 @@ I learned a little bit of React and JavaScript.
 
 ### JavaScript import and export
 
-I learn a little bit of this. I never get a chance to use them in my projects. So, this is the first time I am using the `import` and `export` keywords.
+I learned a little bit of this. I never get a chance to use them in my projects. So, this is the first time I am using the `import` and `export` keywords.
 
 In React it is common thing to use those keywords such as importing components, SVGs, and stylesheets.
 
@@ -39,11 +39,11 @@ In the future, I need to understand this.
 
 ### Create React components
 
-I learn to separate HTML markup into components.
+I learned to separate HTML markup into components.
 
 When creating components, I find it overkill for this size of the project. So, I would prefer to have a single card component. Even better, I would use HTML and CSS to create this. It is just a static website so I don't need to use React.
 
-Anyway, the purpose of this project is to learn React. So, it's okay.
+Anyway, the purpose of doing this project is to learn React. So, it's okay.
 
 For example, I create a `Button` component which is a link that gets styled like a button. Here is the code snippet.
 
